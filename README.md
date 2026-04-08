@@ -13,6 +13,7 @@
 - **Compilers** ou **Engineering a Compiler**
 - **Operating Systems: Three Easy Pieces** (OSTEP)
 - **Linux Kernel Development** (Robert Love)
+- **Designing Data-Intensive Applications** (Martin Kleppmann)
 
 ---
 
