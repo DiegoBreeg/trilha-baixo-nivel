@@ -12,6 +12,8 @@
 - **Computer Systems: A Programmer's Perspective** (CS:APP)
 - **Compilers** ou **Engineering a Compiler**
 - **Operating Systems: Three Easy Pieces** (OSTEP)
+- **Computer Networking: A Top-Down Approach** (Kurose & Ross)
+- **TCP/IP Illustrated, Volume 1: The Protocols** (Richard Stevens)
 - **Linux Kernel Development** (Robert Love)
 - **Designing Data-Intensive Applications** (Martin Kleppmann)
 
